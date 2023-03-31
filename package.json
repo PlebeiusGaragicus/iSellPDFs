@@ -1,0 +1,26 @@
+{
+  "name": "isellpdfs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlebeiusGaragicus/iSellPDFs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlebeiusGaragicus/iSellPDFs/issues"
+  },
+  "homepage": "https://github.com/PlebeiusGaragicus/iSellPDFs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
